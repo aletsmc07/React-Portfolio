@@ -15,16 +15,16 @@ const Header = ({currentPage, handlePage}) => {
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav ms-auto">
                             <a className= {currentPage === 'About' ? 'nav-link active' : 'nav-link'} href="#About" onClick={() => handlePage('About')}>
-                                <i class="bi bi-house"></i> About
+                                <i class="bi bi-house navlink"></i> About
                             </a>
                             <a className= {currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'} href="#Portfolio" onClick={() => handlePage('Portfolio')}>
-                                <i class="bi bi-file-earmark-code"></i>Portfolio
+                                <i class="bi bi-file-earmark-code navlink"></i>Portfolio
                             </a>
                             <a className= {currentPage === 'Contact' ? 'nav-link active' : 'nav-link'} href="#contact" onClick={ () => handlePage('Contact')}>
-                                <i class="bi bi-envelope"></i>Contact
+                                <i class="bi bi-envelope navlink"></i>Contact
                             </a>
                             <a className= {currentPage === 'Resume' ? 'nav-link active' : 'nav-link'} href="#resume" onClick={ () => handlePage('Resume')}>
-                                <i class="bi bi-file-person"></i>Resume
+                                <i class="bi bi-file-person navlink"></i>Resume
                             </a>
                         </div>
                     </div>
