@@ -1,0 +1,12 @@
+.Cardstyle {
+    width: 18rem;
+}
+
+.card {
+    margin: 20px;
+    padding: 15px;
+}
+
+.btn {
+    align-items: center;
+}
