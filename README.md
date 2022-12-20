@@ -62,15 +62,12 @@ This app was created with the following resources:
 
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![React][React.js]][React-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
 * [![CSS][CSS3]][CSS3-url]
-* [![Stripe][Stripe]][Stripe-url]
 * [![Express][Express]][Express-url]
 * [![Heroku][Heroku]][Heroku-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Github][Github]][Github-url]
 * [![NodeJS][Node.js]][Node.js-url]
-* [![Canva][Canva]][Canva-url]
 
 <p align="right"><a href="#content">Content</a></p>
 
