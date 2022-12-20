@@ -89,46 +89,46 @@ Clone the repository (link provided on "LINKS" section).
    npm start
    ```
 3. Or just open the deployed app.
-4. 
+
 <p align="right"><a href="#content">Content</a></p>
 
 <!-- USAGE -->
 ## Usage
-### Sign Up
-Welcome to MANDALA, feel free to create your profile:
+### Interface
+Navigate for the page, 4 sections that you can visit:
 <p>&nbsp;</p>
 
-![chrome_yVpEvZNVSO](https://user-images.githubusercontent.com/107447818/204388691-21a1e9bd-1e9d-4c2f-8d9c-6a3040f9ade8.gif)
+![NVIDIA_Share_yV6ey8MyZp](https://user-images.githubusercontent.com/107447818/208565417-e32f25d7-3cda-47a9-ba3e-d237a26f6eff.gif)
 
-### Log In
-Also if you are a member, login in your account; in "My Profile" section you can change your basic info, after that save changes:
+### About Section
+Little introduce about myself:
 <p>&nbsp;</p>
 
-![chrome_cfaEUGHlpT](https://user-images.githubusercontent.com/107447818/204388872-24bdbf17-62ae-4c53-b5c6-a0c1d18c2157.gif)
+![ReactPortfolioIMG](https://user-images.githubusercontent.com/107447818/208565622-0a6715df-4049-41b3-ade8-7751a0630f3e.jpg)
 
-### Explore
-You can buy published pieces, section "EXPLORE" contains all the paintings of our artists, add to cart as many pieces as you want, remove from cart one or all elements of your list:
+### Portfolio Section
+You can check some of the projects that I made or contribuited, visit the repository on Github or the weblink pressing the buttons:
 <p>&nbsp;</p>
 
-![chrome_LAHR3PVnqt](https://user-images.githubusercontent.com/107447818/204414255-0afbadff-d117-46fe-b049-e4abe09ce264.gif)
+![NVIDIA_Share_yRXX3uaESF](https://user-images.githubusercontent.com/107447818/208565820-37b9c35e-8ddf-4092-a843-8bc86270d3e5.gif)
 
-### Buy
-Complete your purchase: 
+### Contact Section
+If you have questions or contact me to talk better fill the form correctly (dont forget to provied completly the data): 
 <p>&nbsp;</p>
 
-![chrome_AaZAXw4Wvz](https://user-images.githubusercontent.com/107447818/204414421-dfa7badd-3b57-4301-8bbe-1767e6f7ddfa.gif)
+![NVIDIA_Share_dhn2N9hTKC](https://user-images.githubusercontent.com/107447818/208567347-119e6e9b-96a9-4252-b362-59298e852703.gif)
 
-### Checkout
-Fill the required info to confirm your purchase:
+### Resume Section
+I describe my ptitudes, download my Resume:
 <p>&nbsp;</p>
 
-![chrome_wm0vfCnYD5](https://user-images.githubusercontent.com/107447818/204414510-bed48dee-b88c-4377-9711-31d93d945d45.gif)
+![NVIDIA_Share_hZ8eX7Q5Hl](https://user-images.githubusercontent.com/107447818/208567798-f406bfb5-b10f-40fe-a32d-732dda322619.gif)
 
-### Email confirmation
-You will recieve an email confirmation:
+### Social Media
+In the bottom of the page I provide my social media links:
 <p>&nbsp;</p>
 
-![image](https://user-images.githubusercontent.com/107447818/204414842-d3f6eddb-3c06-4a84-982b-d7341cc04126.png)
+![ResumeSection](https://user-images.githubusercontent.com/107447818/208567762-c73bec98-5f8e-4dc2-ac79-6d64a4b27a55.jpg)
 
 <p align="right"><a href="#content">Content</a></p>
 
