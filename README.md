@@ -64,7 +64,7 @@ This app was created with the following resources:
 * [![React][React.js]][React-url]
 * [![CSS][CSS3]][CSS3-url]
 * [![Express][Express]][Express-url]
-* [![Heroku][Heroku]][Heroku-url]
+* [![Bootstrap][Bootstrap]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Github][Github]][Github-url]
 * [![NodeJS][Node.js]][Node.js-url]
@@ -177,8 +177,8 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 [CSS3-url]: https://developer.mozilla.org/es/docs/Web/CSS
 [Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
 [Express-url]: https://expressjs.com/
-[Heroku]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white
-[Heroku-url]: https://www.heroku.com/
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Github]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white
