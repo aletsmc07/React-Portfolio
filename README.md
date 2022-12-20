@@ -9,8 +9,6 @@
   <h3>My personal resume, see what I'm capable.</h3>
 
   <p align="center">
-    A little resume about me!
-    </br>
     <a href="https://aletsmc07.github.io/React-Portfolio/">View App</a>
     ·
     <a href="https://github.com/aletsmc07/React-Portfolio/issues">Report Bug</a>
@@ -46,13 +44,14 @@
   <img src="https://github.com/aletsmc07/React-Portfolio/blob/master/src/Assets/images/about%20images/ReactPortfolioIMG.jpg?raw=true" alt="Logo" width="90%">
 </p>
 
-Mandala is an e-commerce marketplace where users can buy and sell local artwork.
+This is a miniproject that contains a resume of myself.
 
-In this app users are able to:
-* Register and edit their own profiles.
-* Browse the explore section using filters such as price range and art techniques.
-* Publish artwork by specifing piece title, description, medium and price.
-* Add, remove and checkout from their own shopping cart; after every purchase the user will recieve an email with confirmation details. :smile:
+In this app ypu can:
+* Navigate in 4 sections: About me, Portfolio, Contact and Resume.
+* A little introduce about my job and knowledgement.
+* Portfolio showing 6 projects that I made or contribuited.
+* Contact form if you want to talk with me. :smile:
+* Download a PDF file with my resume.
 
 <p align="right"><a href="#content">Content</a></p>
 
@@ -74,7 +73,7 @@ This app was created with the following resources:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Please be sure that you have installed a source code editor like VSC; it is also important to install NodeJs and MongoDB.
+Please be sure that you have installed a source code editor like VSC; it is also important to install NodeJs.
 
 ### Prerequisites
 
@@ -85,26 +84,12 @@ Clone the repository (link provided on "LINKS" section).
 ### Installation
 
 1. Open the folder in your code editor.
-2. Install dependencies:
+2. Start the server:
    ```
-   npm install
+   npm start
    ```
-3. Seed the database:
-   ```
-   npm run seed
-   ```  
-4. Run build script:
-   ```
-   npm run build
-   ```      
-5. Finally, run the app:
-   ```sh
-   npm run develop
-   ```
-6. If you are not redirectioned, copy and paste the link in your browser:
-   ```
-   http://localhost:3000/
-   ```
+3. Or just open the deployed app.
+4. 
 <p align="right"><a href="#content">Content</a></p>
 
 <!-- USAGE -->
