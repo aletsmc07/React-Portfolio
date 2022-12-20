@@ -9,7 +9,7 @@
   <h3>My personal resume, see what I'm capable.</h3>
 
   <p align="center">
-    An easy way to sell and buy art!
+    A little resume about me!
     </br>
     <a href="https://aletsmc07.github.io/React-Portfolio/">View App</a>
     ·
@@ -43,7 +43,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/aletsmc07/Images/blob/main/Images/Main.jpg?raw=true" alt="Logo" width="100%">
+  <img src="https://github.com/aletsmc07/React-Portfolio/blob/master/src/Assets/images/about%20images/ReactPortfolioIMG.jpg?raw=true" alt="Logo" width="90%">
 </p>
 
 Mandala is an e-commerce marketplace where users can buy and sell local artwork.
