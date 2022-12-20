@@ -1,70 +1,197 @@
-# Getting Started with Create React App
+<a name="React Porfolio"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <img src="https://github.com/aletsmc07/React-Portfolio/blob/master/src/Assets/images/about%20images/profileimg.jpeg?raw=true" alt="Logo" width="80">
 
-## Available Scripts
+  <h1 align="center">React Portfolio</h1>
+  <h3>My personal resume, see what I'm capable.</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    An easy way to sell and buy art!
+    </br>
+    <a href="https://aletsmc07.github.io/React-Portfolio/">View App</a>
+    ·
+    <a href="https://github.com/aletsmc07/React-Portfolio/issues">Report Bug</a>
+  </p>
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
+## CONTENT
+<details>
+  <summary><strong>Table of content</strong></summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#Usage">Usage</a></li>
+    <li><a href="#Links">Links</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+  <img src="https://github.com/aletsmc07/Images/blob/main/Images/Main.jpg?raw=true" alt="Logo" width="100%">
+</p>
 
-### `npm test`
+Mandala is an e-commerce marketplace where users can buy and sell local artwork.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In this app users are able to:
+* Register and edit their own profiles.
+* Browse the explore section using filters such as price range and art techniques.
+* Publish artwork by specifing piece title, description, medium and price.
+* Add, remove and checkout from their own shopping cart; after every purchase the user will recieve an email with confirmation details. :smile:
 
-### `npm run build`
+<p align="right"><a href="#content">Content</a></p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This app was created with the following resources:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [![JavaScript][JavaScript]][JavaScript-url]
+* [![React][React.js]][React-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
+* [![CSS][CSS3]][CSS3-url]
+* [![Stripe][Stripe]][Stripe-url]
+* [![Express][Express]][Express-url]
+* [![Heroku][Heroku]][Heroku-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+* [![Github][Github]][Github-url]
+* [![NodeJS][Node.js]][Node.js-url]
+* [![Canva][Canva]][Canva-url]
 
-### `npm run eject`
+<p align="right"><a href="#content">Content</a></p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- GETTING STARTED -->
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Please be sure that you have installed a source code editor like VSC; it is also important to install NodeJs and MongoDB.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prerequisites
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone the repository (link provided on "LINKS" section).
 
-## Learn More
+<p align="right"><a href="#content">Content</a></p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Open the folder in your code editor.
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Seed the database:
+   ```
+   npm run seed
+   ```  
+4. Run build script:
+   ```
+   npm run build
+   ```      
+5. Finally, run the app:
+   ```sh
+   npm run develop
+   ```
+6. If you are not redirectioned, copy and paste the link in your browser:
+   ```
+   http://localhost:3000/
+   ```
+<p align="right"><a href="#content">Content</a></p>
 
-### Code Splitting
+<!-- USAGE -->
+## Usage
+### Sign Up
+Welcome to MANDALA, feel free to create your profile:
+<p>&nbsp;</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![chrome_yVpEvZNVSO](https://user-images.githubusercontent.com/107447818/204388691-21a1e9bd-1e9d-4c2f-8d9c-6a3040f9ade8.gif)
 
-### Analyzing the Bundle Size
+### Log In
+Also if you are a member, login in your account; in "My Profile" section you can change your basic info, after that save changes:
+<p>&nbsp;</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![chrome_cfaEUGHlpT](https://user-images.githubusercontent.com/107447818/204388872-24bdbf17-62ae-4c53-b5c6-a0c1d18c2157.gif)
 
-### Making a Progressive Web App
+### Explore
+You can buy published pieces, section "EXPLORE" contains all the paintings of our artists, add to cart as many pieces as you want, remove from cart one or all elements of your list:
+<p>&nbsp;</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![chrome_LAHR3PVnqt](https://user-images.githubusercontent.com/107447818/204414255-0afbadff-d117-46fe-b049-e4abe09ce264.gif)
 
-### Advanced Configuration
+### Buy
+Complete your purchase: 
+<p>&nbsp;</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![chrome_AaZAXw4Wvz](https://user-images.githubusercontent.com/107447818/204414421-dfa7badd-3b57-4301-8bbe-1767e6f7ddfa.gif)
 
-### Deployment
+### Checkout
+Fill the required info to confirm your purchase:
+<p>&nbsp;</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![chrome_wm0vfCnYD5](https://user-images.githubusercontent.com/107447818/204414510-bed48dee-b88c-4377-9711-31d93d945d45.gif)
 
-### `npm run build` fails to minify
+### Email confirmation
+You will recieve an email confirmation:
+<p>&nbsp;</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://user-images.githubusercontent.com/107447818/204414842-d3f6eddb-3c06-4a84-982b-d7341cc04126.png)
+
+<p align="right"><a href="#content">Content</a></p>
+
+<!-- LINKS -->
+## Links
+* [React Portfolio PAGE](https://aletsmc07.github.io/React-Portfolio/)
+* [Github Repository](https://github.com/aletsmc07/React-Portfolio)
+
+<p align="right"><a href="#content">Content</a></p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
+
+<p align="right"><a href="#content">Content</a></p>
+
+<!-- CONTACT -->
+## Contact
+
+- Alejandro Mince [![Github][aletsmc07]][Github6-url] [![Gmail][gmail6]][gmail6-url]
+
+<p align="right"><a href="#content">Content</a></p>
+
+<!-- SHIELDS -->
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black
+[JavaScript-url]: https://developer.mozilla.org/es/docs/Web/JavaScript
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/es/docs/Web/CSS
+[Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
+[Express-url]: https://expressjs.com/
+[Heroku]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white
+[Heroku-url]: https://www.heroku.com/
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
+[Github]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white
+[Github-url]: https://github.com/jcuetos97/MANDALA
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
+[Node.js-url]: https://nodejs.org/en/
+
+
+
+[aletsmc07]: https://img.shields.io/badge/aletsmc07-181717?style=for-the-badge&logo=Github&logoColor=white
+[Github6-url]: https://github.com/aletsmc07
+[gmail6]: https://img.shields.io/badge/alejandro.mince07@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white
+[gmail6-url]: mailto:alejandro.mince07@gmail.com
